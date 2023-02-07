@@ -1,0 +1,12 @@
+01
+binary number system
+
+the only thing which is understandable by the computer 
+
+the computer considers only numbers 0 -1
+
+0 represents negetive "NO"
+
+1 represents positive "YES"
+
+
